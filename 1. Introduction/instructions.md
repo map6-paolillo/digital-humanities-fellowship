@@ -15,7 +15,7 @@ From the [list of projects](https://github.com/cornell-colab/Day-1-Introduction/
 * What scholarly decisions were made in the design of underlying dataset, the metadata, the visualization, and/or the user interface?
 * If the underlying data is still being compiled, how is it being compiled? Are the creators using crowdsourcing or public engagement methods for collecting data?
 * Are the project’s creator(s) writing (or have they already written) published works derived from their digital project?
-* Do the creators offer their data or code for reuse by others?
+* Do the creators offer their data or code for reuse by others? Is offering data for reuse a primary goal of the project, or a secondary goal? 
 * In what ways do find the project successful or unsuccessful?
 * What are your questions?
 
@@ -23,7 +23,7 @@ From the [list of projects](https://github.com/cornell-colab/Day-1-Introduction/
 
 ### After the Session: Reflection Post
 
-After we've met, post a new discussion in the [2018 Fellows Discussion Board](https://github.com/orgs/cornell-colab/teams/2018-fellows). Address any of these questions:  
+After we've met, post a new discussion in the [2019 Fellows Discussion Board](https://github.com/orgs/cornell-colab/teams/2018-fellows). Address any of these questions:  
 
 * Think about the data (or sources) that will underlie your own project. What issues do you foresee you may need to address as you assemble, analyze, and present your data?
 * What are some factors that are important to the success of a digital project that you want to replicate in your own project?  
