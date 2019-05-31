@@ -1,4 +1,4 @@
-# SGFDH Day2 Metadata
+# SGFDH Day 2: Metadata
 
 ### Prep Assignment 
 
