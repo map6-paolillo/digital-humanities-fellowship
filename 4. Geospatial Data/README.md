@@ -1,10 +1,20 @@
-# Geodata Resources
+# SGFDH Day 3: Cleaning & Exploring Tabular Data (& Geodata)
 
-[Sign up](https://cornell.carto.com/signup) for a Carto account.
+### Prep Assignment
 
-[Download](http://openrefine.org/download.html) OpenRefine 2.8
+[Sign up](https://cornell.carto.com/signup) for a Cornell Carto account.
 
-### Street Address Geocoding
+[Download](http://openrefine.org/download.html) OpenRefine 3.1
+
+### For Reference
+
+#### OpenRefine
+
+[Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine), a tutorial on *Programming Historian*
+
+[Guide to GREL](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) (Google Refine Expression Language), a cousin of regular expressions.
+
+[GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
 ##### No Coding Required
 
@@ -24,17 +34,11 @@ Your Carto account gives you 250 free address geocodes per month. Global coverag
 How to make your own gazetteer for place-name extraction with Python:  
 [Using Gazetteers to Extract Sets of Keywords from Free-Flowing Texts](https://programminghistorian.org/en/lessons/extracting-keywords), A tutorial on *Programming Historian*
 
-### OpenRefine
 
-[Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine), a tutorial on *Programming Historian*
 
-[Guide to GREL](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) (Google Refine Expression Language), a cousin of regular expressions.
 
-[GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
-### A Reading
-
-[What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29) Richard White
+### Daily Comment
 
 
 
