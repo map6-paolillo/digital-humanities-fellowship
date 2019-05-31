@@ -20,8 +20,7 @@ Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 Brent Cebul & Team  
 (This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
-* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
-[Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
+* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) & [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
 Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
 
 
