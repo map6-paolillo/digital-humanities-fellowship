@@ -60,8 +60,6 @@ See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/article
 (Requires free log in.)    
 Ed Baptist & Team
 
-* [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
-Ned Benton, Judy-Lynne Peters, & Team
  
 ### Text 
  
