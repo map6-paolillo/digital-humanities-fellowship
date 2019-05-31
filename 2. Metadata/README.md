@@ -7,6 +7,8 @@ Please bring an object from home to the session today. The object can be decorat
 #### Optional Prep Reading
 Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling mismatched ontologies in development information systems." 2009 42nd Hawaii International Conference on System Sciences. IEEE, 2009. [Copy in the Illinois institutional repository](https://www.ideals.illinois.edu/bitstream/handle/2142/15202/WallackSrinivasanICONF091.pdf?sequence=2&isAllowed=y). 
 
+[*Wikipedia*'s entry on Musical Instrument Classification](https://en.wikipedia.org/wiki/Musical_instrument_classification)
+
 ### Daily Comment
 
 Please post a reflection on something you learned today or that you would still like to learn. 
