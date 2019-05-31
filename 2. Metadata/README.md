@@ -2,12 +2,17 @@
 
 ### Prep Assignment 
 
-Please bring an object from home to the session today. The object can be decorative, functional, historical, or contemporary. Ideally, it will have some sort of significance to you or a background story that you feel comfortable describing in class. 
+Please bring an object from home to the session today. The object can be decorative, functional, historical, or contemporary. Ideally, it will have some sort of significance to you or a background story (that you feel comfortable describing in class!). 
 
 #### Optional Prep Reading
 Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling mismatched ontologies in development information systems." 42nd Hawaii International Conference on System Sciences. IEEE, 2009. [Copy in the Illinois institutional repository](https://www.ideals.illinois.edu/bitstream/handle/2142/15202/WallackSrinivasanICONF091.pdf?sequence=2&isAllowed=y). 
 
 *Wikipedia*'s entry on [Musical Instrument Classification](https://en.wikipedia.org/wiki/Musical_instrument_classification)
+
+#### Optional Post-Session Reading
+[The TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) (Taxonomy of Digital Research Activities in the Humanities)  
+TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with.  
+Read the README and Introduction files for background information, and the "reading" folder for the actual taxonomy. 
 
 ### Daily Comment
 
