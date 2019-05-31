@@ -75,7 +75,7 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-* [Ticha: A Digital Text Explorer for Colonial Zapotec] (https://ticha.haverford.edu/en/)  
+* [Ticha: A Digital Text Explorer for Colonial Zapotec](https://ticha.haverford.edu/en/)  
 Brook Danielle Lillehaugen & Team
 
 ### Images
