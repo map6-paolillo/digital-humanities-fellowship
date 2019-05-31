@@ -8,7 +8,7 @@
 
 ### For Reference
 
-#### OpenRefine
+#### OpenRefine Resources
 
 [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine), a tutorial on *Programming Historian*
 
@@ -16,7 +16,7 @@
 
 [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
-##### No Coding Required
+#### No Coding Required
 
 [Texas A&M Geocoding Service](http://geoservices.tamu.edu/Services/Geocode/). U.S.Addresses only. 2500 addresses at a time for free. Can easily add more sets of 2500 credits.
 
@@ -24,7 +24,7 @@ The [MMQGIS](http://michaelminn.com/linux/mmqgis/) plug-in for [QGIS](https://qg
 
 Your Carto account gives you 250 free address geocodes per month. Global coverage, but quality varies. 
 
-### Place Name Gazetteers
+#### Place Name Gazetteers
 
 [The Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/)  
 (For visual studies, see also: [Art and Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/))  
