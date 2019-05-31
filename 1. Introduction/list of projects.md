@@ -20,8 +20,12 @@ Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 Brent Cebul & Team  
 (This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
+* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
+[Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
+Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
 
-### Network Analysis & Visualization
+
+### Networks
  
 * [Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery](https://mapping-the-enlightenment.org/)  
 Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
@@ -34,25 +38,32 @@ M. Cristina Pattuelli, Matt Miller, & Team
 * [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
 William Easterly, Laura Freschi, & Steven Pennings 
 
+* [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
+Thomas Mullaney & Team
+
 * [Sound and Documentary in Cardiff and Miller's *Pandemonium*](http://scalar.usc.edu/works/pandemonium/index)  
 Cecilia Wichmann (The project is a digital companion to her master's thesis.)
 
 * [Performing Archive: Curits + "the vanishing race"](http://scalar.usc.edu/works/performingarchive/index)  
 Jacqueline Wernimont & Team
  
-### Database Plus
+### Databases Plus
  
-* [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)
+* [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)  
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 
 * [Voyages: The Trans Atlantic Slave Trade Database](http://www.slavevoyages.org/)
 David Eltis, Martin Halbert, & Team  
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)(A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.)
 
+* [Freedom on the Move](http://freedomonthemove.org)  
+(Requires free log in.)    
+Ed Baptist & Team
+
 * [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
 Ned Benton, Judy-Lynne Peters, & Team
  
-### Computational Text Analysis 
+### Text 
  
 * [America’s Public Bible (Bible Quotations in Newspapers Throughout the 19th century)](http://americaspublicbible.org/)  
 Lincoln Mullen
@@ -64,7 +75,10 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-### Computational Image Analysis
+* [Ticha: A Digital Text Explorer for Colonial Zapotec] (https://ticha.haverford.edu/en/)  
+Brook Danielle Lillehaugen & Team
+
+### Images
 
 * [Library of Congress Colors](https://loc-colors.glitch.me/)  
 Laura Wrubel
@@ -72,7 +86,7 @@ Laura Wrubel
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
+* SelfieCity and the SelfieExploratory (L. Manovich & Team at City Univeristy of New York Graduate Center)
 
 ## Projects by Summer Fellow Alums
 
@@ -87,6 +101,9 @@ Anna Waymack (Medieval Studies)
 
 * [Parthian Sources Online](http://parthiansources.com/)  
 Jake Nabel (Classics)
+
+* [Topic Modeling the Magazin zur Erfahrungsseelenkunde](http://davidwdunham.com/projects/1/)
+David Dunham (German Studies)
 
 * [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
 Sam Carter (Romance Studies)
