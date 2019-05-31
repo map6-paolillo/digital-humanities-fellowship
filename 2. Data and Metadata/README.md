@@ -9,6 +9,8 @@ Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling misma
 
 *Wikipedia*'s entry on [Musical Instrument Classification](https://en.wikipedia.org/wiki/Musical_instrument_classification)
 
+### After the Session
+
 #### Optional Post-Session Reading
 [The TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) (Taxonomy of Digital Research Activities in the Humanities)  
 TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with.  
