@@ -1,9 +1,11 @@
-# SGFDH-Day2-Metadata
-Metadata Librarian Jenn Colt will join us for this discussion.
+# SGFDH Day2 Metadata
 
-Here's a list of [links and resources](https://www.zotero.org/groups/2192925/dhmetadata2018/items) (in a Zotero page) that Jenn references.
+### Prep Assignment 
 
-You can download her PowerPoint presentation from the Day 2 repository. 
+Please bring an object from home to the session today. The object can be decorative, functional, historical, or contemporary. Ideally, it will have some sort of significance to you or a background story that you feel comfortable describing in class. 
+
+#### Optional Prep Reading
+Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling mismatched ontologies in development information systems." 2009 42nd Hawaii International Conference on System Sciences. IEEE, 2009. [Copy in the Illinois institutional repository](https://www.ideals.illinois.edu/bitstream/handle/2142/15202/WallackSrinivasanICONF091.pdf?sequence=2&isAllowed=y). 
 
 ### Daily Comment
 
@@ -15,7 +17,3 @@ Some questions to consider:
 * What metadata might be useful or necessary for you to perform the anlysis and/or create the interface that you plan?
 * What do you wish you understood better?
 * Anything you learned today that was useful?
-
-### Prepare for Tomorrow
-
-Check out the Day 3 Repository for list of readings and a link to download AntConc.
