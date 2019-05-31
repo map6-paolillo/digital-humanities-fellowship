@@ -1,4 +1,4 @@
-# SGFDH Day 3: Cleaning & Exploring Tabular Data (& Geodata)
+# SGFDH Day 3: Preparing & Exploring Tabular Data
 
 ### Prep Assignment
 
