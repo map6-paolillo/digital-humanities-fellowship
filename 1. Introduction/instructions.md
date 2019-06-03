@@ -2,7 +2,7 @@
 
 ### Before the Session
 
-From the [list of projects](https://github.com/cornell-colab/Day-1-Introduction/blob/master/list%20of%20projects.md), choose (a) one or two of the Large Team Projects, and (b) one or two of the projects created by the Summer Fellow Alums.
+From the [list of projects](https://github.com/cornell-colab/digital-humanities-fellowship/blob/master/1.%20Introduction/list%20of%20projects.md), choose (a) one or two of the Large Team Projects, and (b) one or two of the projects created by the Summer Fellow Alums.
 
 #### For each of your chosen projects,
  
