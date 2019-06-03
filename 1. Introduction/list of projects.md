@@ -20,7 +20,8 @@ Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 Brent Cebul & Team  
 (This project is one of several rich projects included in University of Richmond DS Lab’s [American Panorama, an Atlas of United States History](https://dsl.richmond.edu/panorama/).)
 
-* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) & [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
+* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
+[Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
 Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
 
 
@@ -59,6 +60,8 @@ See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/article
 (Requires free log in.)    
 Ed Baptist & Team
 
+* [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
+Ned Benton, Judy-Lynne Peters, & Team
  
 ### Text 
  
@@ -72,7 +75,7 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-* [Ticha: A Digital Text Explorer for Colonial Zapotec](https://ticha.haverford.edu/en/)  
+* [Ticha: A Digital Text Explorer for Colonial Zapotec] (https://ticha.haverford.edu/en/)  
 Brook Danielle Lillehaugen & Team
 
 ### Images
@@ -104,3 +107,13 @@ David Dunham (German Studies)
 
 * [Historia Literararia del Registro de Sonido (A Literary History of the Phonograph)](http://scalar.usc.edu/works/literary-history-of-the-phonograph/index)  
 Sam Carter (Romance Studies)
+
+## Large Projects without Web-based Front Ends
+
+* [*La Gaceta de la Habana*](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)  
+Paige Morgan & Team at University of Miami Libraries (Paige is now at U. Delaware.)
+
+* [Intertext](https://github.com/YaleDHLab/intertext)  
+Peter Leonard & Team at Yale DH Lab
+
+
