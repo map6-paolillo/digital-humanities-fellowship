@@ -16,7 +16,7 @@ Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling misma
 TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with.  
 Read the README and Introduction files for background information, and the "reading" folder for the actual taxonomy. 
 
-### Daily Comment
+#### Daily Comment
 
 Please post a reflection on something you learned today or that you would still like to learn. 
 
