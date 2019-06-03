@@ -12,11 +12,11 @@
 
 [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine), a tutorial on *Programming Historian*
 
-[Guide to GREL](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) (Google Refine Expression Language), a cousin of regular expressions.
+[Guide to GREL](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) (Google Refine Expression Language) GREL is a sibling of regular expressions.
 
 [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
-#### No Coding Required
+#### Geocoding Services for Contemporary Addresses
 
 [Texas A&M Geocoding Service](http://geoservices.tamu.edu/Services/Geocode/). U.S.Addresses only. 2500 addresses at a time for free. Can easily add more sets of 2500 credits.
 
@@ -24,12 +24,16 @@ The [MMQGIS](http://michaelminn.com/linux/mmqgis/) plug-in for [QGIS](https://qg
 
 Your Carto account gives you 250 free address geocodes per month. Global coverage, but quality varies. 
 
-#### Place Name Gazetteers
+#### Place Name Gazetteers, Historic and Contemporary
 
 [The Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/)  
 (For visual studies, see also: [Art and Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/))  
 
-[GeoNames](http://www.geonames.org/)
+[GeoNames](http://www.geonames.org/)  
+
+[Peripleo](https://peripleo.pelagios.org/), a gazetteer of "places of the past"
+
+[Pleiades](https://pleiades.stoa.org/), a gazetteer of ancient places
 
 How to make your own gazetteer for place-name extraction with Python:  
 [Using Gazetteers to Extract Sets of Keywords from Free-Flowing Texts](https://programminghistorian.org/en/lessons/extracting-keywords), A tutorial on *Programming Historian*
