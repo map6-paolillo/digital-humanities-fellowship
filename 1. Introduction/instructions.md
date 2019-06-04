@@ -27,7 +27,7 @@ After we've met, post a new discussion in the [2019 Fellows Discussion Board](ht
 
 * Think about the data (or sources) that will underlie your own project. What issues do you foresee you may need to address as you assemble, analyze, and present your data?
 * What are some factors that are important to the success of a digital project that you want to replicate in your own project?  
-* What do you want to understood better?  
+* What do you want to understand better?  
 * What do you want to know how to do? 
 
 Consider the discussions posted by your fellow fellows, and comment on any that you'd like to. 
