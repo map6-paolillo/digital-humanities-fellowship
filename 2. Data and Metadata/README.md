@@ -9,6 +9,9 @@ Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling misma
 
 *Wikipedia*'s entry on [Musical Instrument Classification](https://en.wikipedia.org/wiki/Musical_instrument_classification)
 
+### For Reference  
+[Cornell University Library -- Metadata Application Profiles](https://confluence.cornell.edu/display/mwgweb/CUL+Metadata+Application+Profiles)
+
 ### After the Session
 
 #### Optional Post-Session Reading
