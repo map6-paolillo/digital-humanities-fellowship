@@ -10,11 +10,13 @@
 
 #### OpenRefine Resources
 
-[Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine), a tutorial on *Programming Historian*
+[Official OpenRefine Documentation](http://openrefine.org/documentation.html)  
+[Getting started with OpenRefine](http://thomaspadilla.org/dataprep/) by Thomas Padilla (A thorough introduction and reference. Geared toward humanists; the example data set is a list of books.)  
+[Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) by Seth van Hooland, Ruben Verborgh and Max De Wilde (A peer-reviewed tutorial published by The Programming Historian)  
+[Understanding Clustering Methods](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth) (If you want to get into the nitty-gritty of how different clustering methods work.)  
+[Reference for GoogleRefine Expression Language (GREL)](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions). Dictionary of GREL functions and how to use them -- when you are ready to do more complex pattern searching.  
+[GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes). If there's something you want to do with GREL and you can't figure how to do it, check here. 
 
-[Guide to GREL](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) (Google Refine Expression Language) GREL is a sibling of regular expressions.
-
-[GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
 #### Geocoding Services for Contemporary Addresses
 
