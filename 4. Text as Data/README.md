@@ -1,7 +1,7 @@
 # SGFDH-Day-3-Methods-of-text-analysis
 Introduction to text analysis methods
 
-## Before this session
+## Before the session
 
 Please read the following (each is relatively short):
 
@@ -21,11 +21,9 @@ Finally, these readings are optional but may be interesting to you:
 
 [Robots Reading Vogue (Yale)](http://dh.library.yale.edu/projects/vogue/)
 
-## After this session
+## After the session
 
 [HathiTrust Research Center Analytics](https://analytics.hathitrust.org/)
-
-
 
 
 ## For your reference
