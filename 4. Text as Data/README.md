@@ -19,6 +19,15 @@ Finally, these readings are optional but may be interesting to you:
 
 [First-Person Narratives of the American South](https://docsouth.unc.edu/fpn/)
 
+[Robots Reading Vogue (Yale)](http://dh.library.yale.edu/projects/vogue/)
+
 ## After this session
 
 [HathiTrust Research Center Analytics](https://analytics.hathitrust.org/)
+
+
+
+
+## For your reference
+
+[Slides for today (Google Drive)](https://drive.google.com/file/d/1wC7j4JxJvi9CzXiwVaC0A8sqWdS4hnOY/view?usp=sharing)
