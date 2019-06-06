@@ -1,4 +1,4 @@
-# SGFDH-Day-3-Methods-of-text-analysis
+# SGFDH-Day-4-Methods-of-text-analysis
 Introduction to text analysis methods
 
 ## Before the session
