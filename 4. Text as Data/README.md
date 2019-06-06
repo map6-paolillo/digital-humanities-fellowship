@@ -24,7 +24,10 @@ Finally, these readings are optional but may be interesting to you:
 ## After the session
 
 [HathiTrust Research Center Analytics](https://analytics.hathitrust.org/)
-
+*	Create a login using your "cornell.edu" account - https://analytics.hathitrust.org/signuppage
+*	Create a workset of books of interest - https://wiki.htrc.illinois.edu/display/COM/HTRC+Worksets (include at least a few books that are related in some way)
+*	Run the the InPhO Topic Model Explore for topic modeling on the workset (Algorithms are explained here: https://wiki.htrc.illinois.edu/display/COM/HTRC+Analytics+Algorithms and accessed here: https://analytics.hathitrust.org/algorithms (must sign in to see) 
+*	Explore results - https://analytics.hathitrust.org/listjobs (must be logged in) 
 
 ## For your reference
 
