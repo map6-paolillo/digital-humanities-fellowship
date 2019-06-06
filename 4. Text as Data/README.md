@@ -32,3 +32,5 @@ Finally, these readings are optional but may be interesting to you:
 ## For your reference
 
 [Slides for today (Google Drive)](https://drive.google.com/file/d/1wC7j4JxJvi9CzXiwVaC0A8sqWdS4hnOY/view?usp=sharing)
+
+Quantitative Analysis of Culture Using Millions of Digitized Books - (https://science.sciencemag.org/content/331/6014/176)
