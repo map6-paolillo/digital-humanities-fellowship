@@ -14,4 +14,4 @@ Here's two applications of topic modeling that fellows may be interested in look
 
 ## After this session
 
-Please start the [Python 3 Course on Codecademy](https://www.codecademy.com/learn/learn-python-3). Try to put an hour or two into the training, but don't worry about completing the course. We will start from the beginning in Monday's session, but having some hands-on experience will give us a running start.
+Please start the free [Python 2 Course on Codecademy](https://www.codecademy.com/learn/learn-python). Try to put an hour or two into the training, but don't worry about completing the course. We will start from the beginning in Monday's session, but having some hands-on experience will give us a running start.
