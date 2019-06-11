@@ -4,7 +4,7 @@ Liz Woods will lead this discussion. Liz is a UX (user experience) designer with
 
 ### Optional Background readings on usability design and digital storytelling:  
 
-From Usability.gov:
+From Usability.gov:  
 [User Interface Design Basics]( https://www.usability.gov/what-and-why/user-interface-design.html)  
 [User Interface Elements & Their Expected Uses](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)  
 
