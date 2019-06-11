@@ -2,7 +2,7 @@
 
 Liz Woods will lead this discussion. Liz is a UX (user experience) designer with Breeding Insight, a big USDA-sponsored project at Cornell to organize and make accessible high-tech breeding knowledge and tools to producers of speciality crops like blueberries and trout. But until recently, she was a UX designer here at the Library.  
 
-#### Optional Background readings on usability design and digital storytelling:  
+### Optional Background readings on usability design and digital storytelling:  
 
 From Usability.gov:
 [User Interface Design Basics]( https://www.usability.gov/what-and-why/user-interface-design.html)  
