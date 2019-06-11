@@ -1,6 +1,6 @@
-# Part I: Storytelling & User Interfaces Discussion with Liz Woods  
+# Part I: Storytelling & User Interfaces Discussion
 
-Liz is a UX (user experience) designer with Breeding Insight, a major USDA-sponsored project to bring breeding knowledge and tools to producers of speciality crops like blueberries and trout. But until recently, she was a UX designer here at the Library.  
+Liz Woods will lead this discussion. Liz is a UX (user experience) designer with Breeding Insight, a big USDA-sponsored project at Cornell to organize and make accessible high-tech breeding knowledge and tools to producers of speciality crops like blueberries and trout. But until recently, she was a UX designer here at the Library.  
 
 #### Optional Background readings on usability design and digital storytelling:  
 
