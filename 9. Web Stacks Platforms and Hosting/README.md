@@ -1,6 +1,9 @@
 # SGFDH Day 9 -- Platforms and Infrastructure
 Platforms, Publishing, Hosting
 
+## The stack - https://prezi.com/view/KyLPNTtqaHORpCP6K2R6/
+This prezi provides a very basic framework for understanding how machines organize their activities. Inherent in this componetized view are dependencies that can affect choice of technologies, feature sets, user experience and troubleshooting. 
+
 For our session today, we will explore published Digital Humanities projects in pairs and compare the features of various popular platforms. Please select a project from the list below:
 
 ## Omeka/Neatline
