@@ -1,7 +1,14 @@
-# SGFDH Day 9 -- Platforms and Infrastructure
-Platforms, Publishing, Hosting
+# Day 9 -- The Web Stack, Platforms, & Hosting
 
-For our session today, we will explore published Digital Humanities projects in pairs and compare the features of various popular platforms. Please select a project from the list below:
+## Choosing a Host 
+#### Two options
+1. Lease your own space. Have full access to the back end. Install whatever you want there.  
+  * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year. 
+  * In a few cases you might want to install something that Reclaim doesn't support easily. One example is PostGIS, a spatial relational database software. In that case you would need to get some developer cloud space at a host like [Digital Ocean](https://www.digitalocean.com/).  
+  
+2. Use some of the the CoLab's space.  
+  * The CoLab has an organizational account through Reclaim (100 GB). If you're not ready to buy your own space, or you just want a temporary space to experiement, you can use some of it for your own installation of Omeka, Scalar, Wordpress, or another software package. The domain You won't have your own access to the backend of the server itself (so you can't write your code from scratch), but you *can* access the back end of whatever software installation you have are using, and if/when you're ready to migrate it over to your own Reclaim (or other) space, you can. The domain name will be cornellcolab.net. 
+  * CoLab space is also a good solution if you're teaching a class and your students need space for their projects. (See undergrad examples below.) You can talk to Eliza anytime about getting space for student assignments. 
 
 ## Omeka/Neatline
 Omeka really shines in its ability to manage collections of archival objects (including photos, audio, and video), and to create exhibitions from them. 
