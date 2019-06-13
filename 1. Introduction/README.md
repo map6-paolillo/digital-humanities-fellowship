@@ -18,6 +18,8 @@ June 14: Individual Meetings. On this day, each fellow will meet with the three 
 
 #### Part II
 
+"--" means that we have no group meeting on that day. 
+
 June 17: Co-working Session  
 June 18:  --  
 June 19:  --  
