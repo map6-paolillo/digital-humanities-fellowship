@@ -1,13 +1,34 @@
 # Day 9 -- The Web Stack, Platforms, & Hosting
 
-## Choosing a Host 
-#### Two options
+## Hosting Your Web Site: Static vs. Dynamic  
+
+The components of a basic website are HTML, CSS, & JavaScript (JS). All of these languages operate on the *client side.* Languages  A static site is one that uses just these three languages, and is rendered the same each time. A more complicated web site, called a dynamic web site, relies on a content management system (see below), and renders each web page as it is called. 
+
+#### Static Web Sites 
+
+If you need a static web site that is secure and easy to maintain, the software Jekyll and the host [GitHub Pages](https://pages.github.com/) might be a good option. There's a little bit of set up to learn, but once you're set up, your pages are straight-forward to write and maintain. 
+
+*Programming Historian* has [a good tutorial on setting up a Jekyll site hosted by GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti).  
+
+GitHub Pages is a no-fee host. It's free to use. However, it's good to know that GitHub is a commercial company owned by Microsoft, and can change its terms of service at any time. The good news is that Jekyll makes it easy to export and transport your site to a different host if you want to, for any reason. 
+
+Examples of web sites built with Jekyll (some hosted on GitHub Pages):  
+* [UN World Statistics Day](https://worldstatisticsday.org/)  
+* [Leaflet for R](https://rstudio.github.io/leaflet/)  
+* [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/)  
+
+Anytime you see the domain github.io, that page is built with Jekyll and hosted on GitHub Pages.
+
+#### Dynamic Web Sites  
+
+If your web site needs a content management system, or a relational database, or other *client-side* programming, you will need a place to host it. You have two basic options:
+
 1. Lease your own space. Have full access to the back end. Install whatever you want there.  
   * In most cases, I recommend [Reclaim Hosting](https://reclaimhosting.com/shared-hosting/). It's designed for scholars, has fantastic technical support, and makes it really easy to install your own instance(s) of Wordpress, Omeka, Scalar, mySQL, and many more platforms. You can also start from scratch and host any HTML, CSS, and/or JS that you write (or borrow/adapt) here. Security and back ups are covered for you. You can register any domain name you like (or move an existing one over). Cost for a personal plan is $30/year. 
   * In a few cases you might want to install something that Reclaim doesn't support easily. One example is PostGIS, a spatial relational database software. In that case you would need to get some developer cloud space at a host like [Digital Ocean](https://www.digitalocean.com/).  
   
 2. Use some of the the CoLab's space.  
-  * The CoLab has an organizational account through Reclaim (100 GB). If you're not ready to buy your own space, or you just want a temporary space to experiement, you can use some of it for your own installation of Omeka, Scalar, Wordpress, or another software package. The domain You won't have your own access to the backend of the server itself (so you can't write your code from scratch), but you *can* access the back end of whatever software installation you have are using, and if/when you're ready to migrate it over to your own Reclaim (or other) space, you can. The domain name will be cornellcolab.net. 
+  * The CoLab has an organizational account (100 GB) through Reclaim. If you're not ready to buy your own space, or you just want a temporary space to experiement, you can use some of it for your own installation of Omeka, Scalar, Wordpress, or another software package. The domain You won't have your own access to the backend of the server itself (so you can't write your code from scratch), but you *can* access the back end of whatever software installation you have are using, and if/when you're ready to migrate it over to your own Reclaim (or other) space, you can. The domain name will be cornellcolab.net. 
   * CoLab space is also a good solution if you're teaching a class and your students need space for their projects. (See undergrad examples below.) You can talk to Eliza anytime about getting space for student assignments. 
 
 ## Omeka/Neatline
