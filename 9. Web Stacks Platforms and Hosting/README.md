@@ -95,18 +95,12 @@ Also see: [Wordpress.com Features](https://en.wordpress.com/features/)
 
 ## Maps
 
-### Neatline
-[Neatline](http://neatline.org) is a sophisticated plugin for Omeka that allows mapping. It was developed at the University of Virginia, and, like Omeka, is designed for academic users. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
-
-In order to use Neatline, you must 
-
-* [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/) by Cornell Ph.D. candidate John Wyatt Greenlee  
-* [Brooklyn Anthems Atlas](http://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas) by Cornell undergrad Avi Simon  
-* [More Neatline Examples](https://neatline.org/demos/)
-
-## Carto
+### Carto
 
 * Proprietary, commercial platform
+* Can embed on dynamic sites
+* (Embed on static sites? Not sure! TBD soon.)  
+* Can extend functionality with Leaflet.js, CSS, SQL 
 
 Examples  
 * [Mapping Islamophobia](http://mappingislamophobia.org/)
@@ -114,15 +108,25 @@ Examples
 
 Also see: [Carto Builder overview](https://carto.com/builder/)
 
+### Neatline
+[Neatline](http://neatline.org) is a sophisticated plugin for Omeka that allows mapping. It was developed at the University of Virginia, and, like Omeka, is designed for academic users. Check out some of the example projects made with Neatline, and compare with Carto. One difference between the two is that Omeka allows much more freeform annotation, and various ways of embedding collections of objects within the map. Neatline also offers timeline tools.
+
+In order to use Neatline, you must host your own installation of Omeka (or use one installed on the CoLab space). 
+
+* [The Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/) by Cornell Ph.D. candidate John Wyatt Greenlee  
+* [Brooklyn Anthems Atlas](http://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas) by Cornell undergrad Avi Simon  
+* [More Neatline Examples](https://neatline.org/demos/)
+
+### Mapbox
+[Mapbox](http://Mapbox.com)  
+
+### Javascript Languages
+LeafletJS
+D3JS
 
 
-**As you explore the projects, please keep the following guiding questions in mind:**
 
 
-* What kind of projects would be a good fit for the features of this platform?
-* Can you identify the type(s) of data/metadata being used? 
-* In how many ways is the data made available to others? (For instance, how might a researcher download the data to use in a new project?)
-* If you imagine this project in the coming years (decades?), what might be problems that come up over time? Are there areas of concern for sustainability?
-* Where would your project be hosted (and by whom?) if you used this platform? Who has ownership, control, rights?
-* How "safe" is your data here? Does the platform allow you to protect your data in some fashion?
-* Is it possible to truly restrict access? Or is it security by obscurity? 
+
+
+
