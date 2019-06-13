@@ -4,7 +4,7 @@
 
 The components of a basic website are HTML, CSS, & JavaScript (JS). All of these languages operate on the *client side.* Languages  A static site is one that uses just these three languages, and is rendered the same each time. A more complicated web site, called a dynamic web site, relies on a content management system (see below), and renders each web page as it is called. 
 
-#### Static Web Sites 
+### Static Web Sites 
 
 If you need a static web site that is secure and easy to maintain, the software Jekyll and the host [GitHub Pages](https://pages.github.com/) might be a good option. There's a little bit of set up to learn, but once you're set up, your pages are straight-forward to write and maintain. 
 
@@ -19,7 +19,7 @@ Examples of web sites built with Jekyll (some hosted on GitHub Pages):
 
 Anytime you see the domain github.io, that page is built with Jekyll and hosted on GitHub Pages.
 
-#### Dynamic Web Sites  
+### Dynamic Web Sites  
 
 If your web site needs a content management system, or a relational database, or other *client-side* programming, you will need a place to host it. You have two basic options:
 
@@ -29,7 +29,20 @@ If your web site needs a content management system, or a relational database, or
   
 2. Use some of the the CoLab's space.  
   * The CoLab has an organizational account (100 GB) through Reclaim. If you're not ready to buy your own space, or you just want a temporary space to experiement, you can use some of it for your own installation of Omeka, Scalar, Wordpress, or another software package. The domain You won't have your own access to the backend of the server itself (so you can't write your code from scratch), but you *can* access the back end of whatever software installation you have are using, and if/when you're ready to migrate it over to your own Reclaim (or other) space, you can. The domain name will be cornellcolab.net. 
-  * CoLab space is also a good solution if you're teaching a class and your students need space for their projects. (See undergrad examples below.) You can talk to Eliza anytime about getting space for student assignments. 
+  * CoLab space is also a good solution if you're teaching a class and your students need space for their projects. (See undergrad examples below.) You can talk to Eliza anytime about getting space for student assignments.  
+  
+### When You Just Want to Share Your Code  
+
+Let's say you have data or software that you've written and want to make available to others. The standard place to do that is GitHub. If you want, you can also produce a static web site in GitHub Pages that links to your code repository.  
+
+Here are examples of digital projects hosted on GitHub:  
+* La Gaceta de la Habana  
+* Intertext  
+
+Here is an example of a GitHub Pages front page for a series of code repositories hosted on GitHub:  
+* [Data and Visualization Workshops at NCSU](https://ncsu-libraries.github.io/data-viz-workshops/)  
+
+
 
 ## Omeka/Neatline
 Omeka really shines in its ability to manage collections of archival objects (including photos, audio, and video), and to create exhibitions from them. 
