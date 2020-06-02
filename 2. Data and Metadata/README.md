@@ -17,11 +17,9 @@ Dooley, D.M., Griffiths, E.J., Gosal, G.S. et al. FoodOn: a harmonized food onto
 The TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with. *Read the README and Introduction files for background information, and the "reading" folder for the actual taxonomy.* 
 
 #### Resources
-DublinCore - https://dublincore.org/
-
-VRACore - https://www.loc.gov/standards/vracore/
-
-MARC21/MARCXML - https://www.loc.gov/marc/bibliographic/
+ * DublinCore - https://dublincore.org/
+ * VRACore - https://www.loc.gov/standards/vracore/
+ * MARC21/MARCXML - https://www.loc.gov/marc/bibliographic/
 
 #### Daily Comment
 
