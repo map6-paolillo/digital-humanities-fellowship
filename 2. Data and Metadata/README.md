@@ -18,7 +18,9 @@ The TaDiRAH was an effort to provide an ontology for all the different research 
 
 #### Resources
 DublinCore - https://dublincore.org/
+
 VRACore - https://www.loc.gov/standards/vracore/
+
 MARC21/MARCXML - https://www.loc.gov/marc/bibliographic/
 
 #### Daily Comment
