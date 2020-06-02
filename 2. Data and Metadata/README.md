@@ -10,6 +10,7 @@ Please bring a hat to the session today. (If you do not own a hat, consider borr
 
 Dooley, D.M., Griffiths, E.J., Gosal, G.S. et al. FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration. npj Sci Food 2, 23 (2018). https://doi.org/10.1038/s41538-018-0032-6  (See especially Figure 3)
 
+
 ### After the Session
 
 #### Optional Post-Session Reading
@@ -20,6 +21,9 @@ The TaDiRAH was an effort to provide an ontology for all the different research 
  * DublinCore - https://dublincore.org/
  * VRACore - https://www.loc.gov/standards/vracore/
  * MARC21/MARCXML - https://www.loc.gov/marc/bibliographic/
+ * [Cornell University Library -- Metadata Application Profiles](https://confluence.cornell.edu/display/mwgweb/CUL+Metadata+Application+Profiles)  
+ * [Cornell University Library Digital Collections](https://digital.library.cornell.edu/collections)  
+ * [Europeana Metadata Schema](https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation//EDM_Definition_v5.2.8_102017.pdf)  
 
 #### Daily Comment
 

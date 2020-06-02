@@ -1,20 +1,18 @@
-# SGFDH-Omeka-Neatline
-SGFDH Topic Day -- Storytelling with Omeka and Neatline
+# Part I: Storytelling & User Interfaces Discussion
 
+Liz Woods will lead this discussion. Liz is a UX (user experience) designer with Breeding Insight, a big USDA-sponsored project at Cornell to organize and make accessible high-tech breeding knowledge and tools to producers of speciality crops like blueberries and trout. But until recently, she was a UX designer here at the Library.  
 
-[Getting Started with Omeka - A Tutorial (Video introduction)](https://www.youtube.com/watch?v=FncO08PeK9o)
+### Optional Background readings on usability design and digital storytelling:  
 
-## Omeka/Neatline Sites to Explore
+From Usability.gov:  
+[User Interface Design Basics]( https://www.usability.gov/what-and-why/user-interface-design.html)  
+[User Interface Elements & Their Expected Uses](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)  
 
-[Mapping the Marytrs](http://www.mappingthemartyrs.org/neatline/show/map) (note: includes a comprehensive ["How we did it"](http://www.mappingthemartyrs.org/how) writeup)
+["Laws" of UX](https://lawsofux.com/), principles largely borrowed from perception and psychology  
+[Familiarity of interface components](https://www.nngroup.com/articles/match-system-real-world/)  
+[Beware the Aesthetic Usability Effect]( https://www.nngroup.com/articles/aesthetic-usability-effect/)  
+[Guide to Important UI/UX Vocabulary](https://djangostars.com/blog/ui-ux-terms-everyone-should-know/)  
 
-[Black Liberation 1969 Archive](http://blacklib1969.swarthmore.edu/) (including [1969 Mapping the Sit-in](http://blacklib1969.swarthmore.edu/neatline/show/sit-in-map) exhibit)
+# Part II: Principles of Data Visualization & Mapping  
 
-[The Hereford Map](historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)
-
-[More Neatline Demos](http://neatline.org/demos/)
-
-## Self-Guided Tutorials
-
-[Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka)
-[Creating an Omeka exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit)
+Eliza will lead this discussion. References to come. 
