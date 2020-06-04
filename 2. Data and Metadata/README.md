@@ -2,20 +2,13 @@
 
 ### Prep Assignment 
 
-Please bring an object from home to the session today. The object can be decorative, functional, historical, or contemporary. Ideally, it will have some sort of significance to you or a background story (that you feel comfortable describing in class!). 
+Please bring a hat to the session today. (If you do not own a hat, consider borrowing one, or simply bringing any accessory that can be worn on your head.)  The hat might have an origin story that you wouldn't mind sharing in class, or can be completely utilitarian.  Increased diversity of headgear will make this exercise the most meaningful, so the more unusual, the better. 
 
 #### Optional Prep Reading
-Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling mismatched ontologies in development information systems." 42nd Hawaii International Conference on System Sciences. IEEE, 2009. [Copy in the Illinois institutional repository](https://www.ideals.illinois.edu/bitstream/handle/2142/15202/WallackSrinivasanICONF091.pdf?sequence=2&isAllowed=y). 
 
 *Wikipedia*'s entry on [Musical Instrument Classification](https://en.wikipedia.org/wiki/Musical_instrument_classification)
 
-### For Reference  
-[Cornell University Library -- Metadata Application Profiles](https://confluence.cornell.edu/display/mwgweb/CUL+Metadata+Application+Profiles)  
-
-[Cornell University Library Digital Collections](https://digital.library.cornell.edu/collections)  
-
-[Europeana Metadata Schema](https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation//EDM_Definition_v5.2.8_102017.pdf)  
-
+Dooley, D.M., Griffiths, E.J., Gosal, G.S. et al. FoodOn: a harmonized food ontology to increase global food traceability, quality control and data integration. npj Sci Food 2, 23 (2018). https://doi.org/10.1038/s41538-018-0032-6  (See especially Figure 3)
 
 
 ### After the Session
@@ -23,6 +16,14 @@ Wallack, Jessica Seddon, and Ramesh Srinivasan. "Local-global: Reconciling misma
 #### Optional Post-Session Reading
 [The TaDiRAH](https://github.com/dhtaxonomy/TaDiRAH) (Taxonomy of Digital Research Activities in the Humanities)  
 The TaDiRAH was an effort to provide an ontology for all the different research activities and objects that a digital humanist might work on or with. *Read the README and Introduction files for background information, and the "reading" folder for the actual taxonomy.* 
+
+#### Resources
+ * DublinCore - https://dublincore.org/
+ * VRACore - https://www.loc.gov/standards/vracore/
+ * MARC21/MARCXML - https://www.loc.gov/marc/bibliographic/
+ * [Cornell University Library -- Metadata Application Profiles](https://confluence.cornell.edu/display/mwgweb/CUL+Metadata+Application+Profiles)  
+ * [Cornell University Library Digital Collections](https://digital.library.cornell.edu/collections)  
+ * [Europeana Metadata Schema](https://pro.europeana.eu/files/Europeana_Professional/Share_your_data/Technical_requirements/EDM_Documentation//EDM_Definition_v5.2.8_102017.pdf)  
 
 #### Daily Comment
 
